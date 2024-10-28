@@ -39,7 +39,7 @@
 
 ##Задание 1. Расширьте варианты доступного оружия в игре. Используйте шаблон таблицы для визуализации оружия игры Save RTF.
 
-[[Week#3 - Баланс в играх (1).xlsx](https://github.com/user-attachments/files/17546528/Week.3.-.1.xlsx)](https://docs.google.com/spreadsheets/d/1PeOm7ERqBq7ivr_VonC2EPh3BF4lvPshPUV1KaBu-98/edit?usp=sharing)
+[(ТУТ ТАБЛИЦА, НЕ ШУЧУ)](https://docs.google.com/spreadsheets/d/1PeOm7ERqBq7ivr_VonC2EPh3BF4lvPshPUV1KaBu-98/edit?usp=sharing)
 
 ## Задание 2. Визуализируйте параметры оружия в таблице.Используйте шаблон таблицы для визуализации оружия игры Save RTF. Постройте примеры для следующих математических величин (см. пример в презентации):
 - Среднеквадратическое отклонение (СКО)
